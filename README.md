@@ -26,7 +26,7 @@
 </span>
 
 <span>
-  <a href="sulak9935@gachon.ac.kr">
+  <a href="[sulak9935@gachon.ac.kr](https://mail.google.com/mail/u/0/#inbox)">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=green"/>
   </a>
 </span>
