@@ -32,7 +32,7 @@
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
   </a>
 </span>
 
