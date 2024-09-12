@@ -26,7 +26,7 @@
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C language-A8B9CC?style=plastic&logo=C language&logoColor=white"/>
   </a>
 </span>
 
@@ -38,13 +38,13 @@
 
 <span>
   <a href="https://simpleicons.org/icons/nodedotjs.svg">
-    <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=plastic&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=Node.js&logoColor=white"/>
   </a>
 </span>
 
 <span>
   <a href="https://simpleicons.org/icons/nodedotjs.svg">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML&logoColor=white"/>
   </a>
 </span>
 
