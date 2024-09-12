@@ -21,6 +21,11 @@
 
 </details>
 
+<span>
+  <a href="https://www.instagram.com/huunzero?igsh=emQ3ZWV6YjUxdXYx&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B6D7A8,10:DA5B0B,30:B6D7A8,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
