@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>📜 About Me</summary>
+                   <summary>📜 About Me</summary>
 
 <p>Hello! I'm a developer specializing in <strong>Artificial Intelligence</strong>, <strong>Optimization</strong>, and applying <strong>AI in the field of architecture</strong>.</p>
 
@@ -16,7 +16,7 @@
   <li>Applying AI in Architectural Design and Processes</li>
 </ul>
 
-<p>Feel free to reach out if you'd like to connect or collaborate!</p>
+<p> official email: sulak9935@gachon.ac.kr </p>
 
 </details>
 
