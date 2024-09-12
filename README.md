@@ -17,9 +17,7 @@
   <li>Applying AI in Architectural Design and Processes</li>
 </ul>
 
-<p> -..- </p>
-
-</details>
+<h2> SNS </h2>
 
 <span>
   <a href="https://www.instagram.com/huunzero?igsh=emQ3ZWV6YjUxdXYx&utm_source=qr">
@@ -32,5 +30,11 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=green"/>
   </a>
 </span>
+
+
+<p> -..- </p>
+
+</details>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B6D7A8,10:DA5B0B,30:B6D7A8,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
