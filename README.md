@@ -26,10 +26,11 @@
 </span>
 
 <span>
-  <a href="">
+  <a href="sulak9935@gachon.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=green"/>
   </a>
 </span>
+
 
 
 <p> -..- </p>
