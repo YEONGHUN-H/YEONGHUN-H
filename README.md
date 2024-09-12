@@ -17,17 +17,30 @@
   <li>Applying AI in Architectural Design and Processes</li>
 </ul>
 
+<h2>Additional Skills</h2>
+<span>
+  <a href="">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+  </a>
+</span>
+
+<span>
+  <a href="">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
+  </a>
+</span>
+
+<span>
+  <a href="">
+    <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/>
+  </a>
+</span>
+
 <h2> SNS </h2>
 
 <span>
   <a href="https://www.instagram.com/huunzero?igsh=emQ3ZWV6YjUxdXYx&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
-
-<span>
-  <a href="[sulak9935@gachon.ac.kr](https://mail.google.com/mail/u/0/#inbox)">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=green"/>
   </a>
 </span>
 
