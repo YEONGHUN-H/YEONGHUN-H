@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ACDFD8,10:B6D7A8,30:D3FFCE,75:CBD0E3,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
-<details>
-  <summary style="text-align: center; display: block; width: 100%;">📜 About Me</summary>
-
+<p align="center">
+  <details>
+    <summary>📜 About Me</summary>
 
 <p>Hello! I'm a developer specializing in <strong>Artificial Intelligence</strong>, <strong>Optimization</strong>, and applying <strong>AI in the field of architecture</strong>.</p>
 
