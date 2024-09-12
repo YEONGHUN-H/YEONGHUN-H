@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary><div align="center">📜 About Me</div></summary>
+  <summary style="text-align: center;"><div>                         About Me</div></summary>
   
 <p>Hello! I'm a developer specializing in <strong>Artificial Intelligence</strong>, <strong>Optimization</strong>, and applying <strong>AI in the field of architecture</strong>.</p>
 
