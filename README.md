@@ -25,13 +25,13 @@
 </span>
 
 <span>
-  <a href="">
+  <a href="https://simpleicons.org/icons/c.svg">
     <img src="https://img.shields.io/badge/C language-A8B9CC?style=plastic&logo=C language&logoColor=white"/>
   </a>
 </span>
 
 <span>
-  <a href="">
+  <a href="https://simpleicons.org/?q=python">
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
   </a>
 </span>
@@ -43,7 +43,7 @@
 </span>
 
 <span>
-  <a href="https://simpleicons.org/icons/nodedotjs.svg">
+  <a href="https://simpleicons.org/icons/html5.svg">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML&logoColor=white"/>
   </a>
 </span>
