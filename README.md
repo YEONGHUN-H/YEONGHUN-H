@@ -2,7 +2,8 @@
 
 
 <details>
-  <detail summary style="text-align: center;"> About Me </summary>
+  <summary style="display: flex; justify-content: center; align-items: center;"> About Me </summary>
+  </details>
   
 <p>Hello! I'm a developer specializing in <strong>Artificial Intelligence</strong>, <strong>Optimization</strong>, and applying <strong>AI in the field of architecture</strong>.</p>
 
