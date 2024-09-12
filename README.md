@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary style="cursor: pointer; text-align: center; display: flex; justify-content: center; align-items: center;">
+  <summary style="cursor: pointer; text-align: center; display: flex; justify-content: center; align-items: center; border: none; background: none; padding: 0;">
     📜 About Me
   </summary>
   
