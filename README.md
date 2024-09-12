@@ -42,6 +42,12 @@
   </a>
 </span>
 
+<span>
+  <a href="https://simpleicons.org/icons/nodedotjs.svg">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+  </a>
+</span>
+
 
 <h2> SNS </h2>
 
