@@ -2,7 +2,7 @@
 
 
 <details>
-<summary><span style="display: inline-block; width: 100%; text-align: center;">About Me🤓</span></summary>
+<summary><span style="display: inline-block; width: 100%; text-align: center;">🤓About Me🤓</span></summary>
 
     
 <p>Hello! I'm a developer specializing in <strong>Artificial Intelligence</strong>, <strong>Optimization</strong>, and applying <strong>AI in the field of architecture</strong>.</p>
@@ -35,6 +35,13 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/>
   </a>
 </span>
+
+<span>
+  <a href="https://simpleicons.org/icons/nodedotjs.svg">
+    <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=plastic&logo=nodedotjs&logoColor=white"/>
+  </a>
+</span>
+
 
 <h2> SNS </h2>
 
