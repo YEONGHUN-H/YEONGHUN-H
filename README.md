@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>📜 <span style="display: inline-block; width: 100%; text-align: center;">About Me</span></summary>
+  <summary>------------------ <span style="display: inline-block; width: 100%; text-align: center;">About Me</span></summary>
 
     
 <p>Hello! I'm a developer specializing in <strong>Artificial Intelligence</strong>, <strong>Optimization</strong>, and applying <strong>AI in the field of architecture</strong>.</p>
