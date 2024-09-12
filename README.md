@@ -1,17 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ACDFD8,10:B6D7A8,30:D3FFCE,75:CBD0E3,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
-* Chrome, Safari에서 화살표 제거 */
-    }
-    summary::before {
-      content: "▶"; /* 사용자 정의 화살표 또는 버튼 추가 */
-      display: inline-block;
-      margin-right: 8px;
-    }
-    details[open] summary::before {
-      content: "▼"; /* 열린 상태에서 화살표 변경 */
-    }
-  
 <details>
   <summary><div align="center">📜 About Me</div></summary> 
     
