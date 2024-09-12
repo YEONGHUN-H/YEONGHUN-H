@@ -3,8 +3,9 @@
 
 <div style="text-align: center;">
   <details>
-    <summary style="display: inline-block; text-align: center;">📜 About Me</summary>
-
+    <summary style="display: inline-block; width: 100%; text-align: center;">📜 About Me</summary>
+    <div>
+      
 <p>Hello! I'm a developer specializing in <strong>Artificial Intelligence</strong>, <strong>Optimization</strong>, and applying <strong>AI in the field of architecture</strong>.</p>
 
 <h2>Education</h2>
