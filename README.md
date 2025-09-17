@@ -33,7 +33,7 @@
 
 <!-- P-실무프로젝트 -->
 <p align="center">
-  <a href="https://github.com/YEONGHUN-H/P_Project.git">
+  <a href="[https://github.com/YEONGHUN-H/P_Project.git](https://github.com/flirteam/Data_ML_Project)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=P_Project&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
   </a>
 </p>
