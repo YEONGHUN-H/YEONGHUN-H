@@ -10,8 +10,9 @@ I'm a Computer Science major at **Gachon University** (Class of 2022).
 
 ### 🔎 Focus Areas
 - Artificial Intelligence Development  
-- Optimization Techniques  
+- Optimization Techniques
 - Applying AI in Architectural Design and Processes
+- Data Scientist
 
 ### 🛠️ Skills
 <p>
@@ -40,7 +41,7 @@ I'm a Computer Science major at **Gachon University** (Class of 2022).
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject1&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
   </a>
 </p>
-<p align="center">🌊 <strong>랩실 프로젝트1</strong> — 뜰개(뜰에 물 채움) 예측 모델 연구</p>
+<p align="center">🌊 <strong>랩실 프로젝트1</strong> — 뜰개 예측 모델 연구</p>
 
 ---
 
@@ -50,7 +51,7 @@ I'm a Computer Science major at **Gachon University** (Class of 2022).
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject2&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
   </a>
 </p>
-<p align="center">📦 <strong>랩실 프로젝트2</strong> — 배달 매칭 최적화 모델</p>
+<p align="center">📦 <strong>랩실 프로젝트2</strong> — 배달 매칭 최적화 모델 개발 연구 </p>
 
 ---
 
@@ -60,7 +61,7 @@ I'm a Computer Science major at **Gachon University** (Class of 2022).
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=ArchitectureLab-EnergyPrediction&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
   </a>
 </p>
-<p align="center">🏠 <strong>건축 랩실 프로젝트</strong> — 홈 어시스턴트 기반 에너지 예측 <br/> 📄 SCI 논문 제2저자 참여 </p>
+<p align="center">🏠 <strong>건축 랩실 프로젝트</strong> — 홈 어시스턴트 기반 건축물 에너지 예측 <br/> 📄 SCI 논문 제2저자 참여 </p>
 
 ### 🔗 SNS
 <p>
