@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:B5FFFC,100:9F8CFF&height=120&section=header&text=Welcome%20to%20YeongHun%27s%20Github&fontSize=55&textColor=FFD700&animation=wave" width="200%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:B5FFFC,100:9F8CFF&height=200&section=header&text=Welcome%20to%20YeongHun%27s%20Github&fontSize=55&textColor=FFD700&animation=wave" width="200%"/>
 
 
 
