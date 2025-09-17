@@ -1,4 +1,4 @@
-<img src="https://github-profile-trophy.vercel.app/?username=YEONGHUN-H&theme=onedark" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YEONGHUN-H&theme=radical" width="100%" />
 
 <br><br><br><br>
 
