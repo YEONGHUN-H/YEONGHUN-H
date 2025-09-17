@@ -41,8 +41,8 @@
 <p align="center">🍽️ 사용자 맞춤 <strong>식단 & 운동 추천 AI</strong> 딥러닝 예측 서비스 <br/> 🥈 가천대학교 <strong>P-실무프로젝트 우수상 수상</strong></p>
 
 
-
-
+---
+<br> <br> 
 <!-- 랩실 프로젝트1 -->
 <p align="center">
   <a href="#">
@@ -52,7 +52,7 @@
 <p align="center">🌊 랩실 프로젝트1 — 뜰개 예측 모델 연구</p>
 
 ---
-
+<br> <br> 
 <!-- 랩실 프로젝트2 -->
 <p align="center">
   <a href="#">
@@ -62,7 +62,7 @@
 <p align="center">📦 랩실 프로젝트2 — 배달 매칭 최적화 모델</p>
 
 ---
-
+<br> <br> 
 <!-- 건축 랩실 프로젝트 -->
 <p align="center">
   <a href="https://example.com/my-paper">
