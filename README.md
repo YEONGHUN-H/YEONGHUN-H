@@ -76,6 +76,16 @@
 
 ---
 <br> <br> 
+<!-- 주가 예측 모델 개발 프로젝트-->
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject2&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+  </a>
+</p>
+<p align="center">💰 주가 예측 모델 개발 — AI 모델 학습을 활용한 주가 예측</p>
+
+---
+<br> <br> 
 
 ### 🔗 SNS
 <p>
