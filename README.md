@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=header&text=Yeonghun%20Git&fontSize=50&textColor=1C1C1C&animation=none" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ACDFD8,10:B6D7A8,30:D3FFCE,75:CBD0E3,100:A371F7&height=100&section=header&text=Welcome%20to%20YeongHun's%20Github&fontSize=50&textColor=white" width="200%"/>
 
 
 
