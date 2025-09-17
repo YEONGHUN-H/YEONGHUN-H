@@ -33,13 +33,12 @@
 
 <!-- P-실무프로젝트 -->
 <p align="center">
-  <a href="[https://github.com/YEONGHUN-H/P_Project.git](https://github.com/flirteam/Data_ML_Project)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=P_Project&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+  <a href="https://github.com/flirteam/Data_ML_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=flirteam&repo=Data_ML_Project&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
   </a>
 </p>
 <p align="center">🍽️ 사용자 맞춤 <strong>식단 & 운동 추천 AI</strong> 딥러닝 예측 서비스 <br/> 🥈 가천대학교 <strong>P-실무프로젝트 우수상 수상</strong></p>
 
----
 
 <!-- 랩실 프로젝트1 -->
 <p align="center">
@@ -47,7 +46,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject1&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
   </a>
 </p>
-<p align="center">🌊 <strong>랩실 프로젝트1</strong> — 뜰개 예측 모델 연구</p>
+<p align="center">🌊 랩실 프로젝트1 — 뜰개 예측 모델 연구</p>
 
 ---
 
@@ -57,17 +56,22 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject2&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
   </a>
 </p>
-<p align="center">📦 <strong>랩실 프로젝트2</strong> — 배달 매칭 최적화 모델 개발 연구 </p>
+<p align="center">📦 랩실 프로젝트2 — 배달 매칭 최적화 모델</p>
 
 ---
 
 <!-- 건축 랩실 프로젝트 -->
 <p align="center">
-  <a href="#">
+  <a href="https://example.com/my-paper">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=ArchitectureLab-EnergyPrediction&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
   </a>
 </p>
-<p align="center">🏠 <strong>건축 랩실 프로젝트</strong> — 홈 어시스턴트 기반 건축물 에너지 예측 <br/> 📄 SCI 논문 제2저자 참여 </p>
+<p align="center">
+  🏠 건축 랩실 프로젝트 — 홈 어시스턴트 기반 에너지 예측 
+  (<a href="https://www.mdpi.com/2076-3417/14/21/9889">SCI 논문 2저자 참여</a>)
+</p>
+
+
 
 
 ### 🔗 SNS
