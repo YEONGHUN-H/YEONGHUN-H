@@ -3,7 +3,7 @@
 <details>
 <summary><span style="display: inline-block; width: 100%; text-align: center;">🤓 About Me  </span></summary>
 <br> <br> <br> 
-Hello! I'm a developer specializing in **Artificial Intelligence**, **Optimization**, and applying **AI in architecture**.
+안녕하세요! 저는 인공지능(AI) 랩실에서 연구를 수행하며, 빅데이터 처리와 예측 분석을 기반으로 최적화, 머신러닝, 딥러닝 기술을 활용하여 실생활과 건축 분야에 AI를 적용하는 프로젝트를 진행하는 학부생 개발자입니다.
 
 ### 🎓 Education
 🧘🏻 홍영훈 (2001.12.17)
