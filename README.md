@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:B5FFFC,100:9F8CFF&height=200&section=header&text=Welcome%20to%20YeongHun%27s%20Github&fontSize=55&textColor=FFD700&animation=wave" width="200%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8B00FF,100:4B0082&height=120&section=header&text=Welcome%20to%20YeongHun%27s%20Github&fontSize=55&textColor=FFD700&animation=wave" width="200%"/>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+</div>
 
 <br><br><br><br>
 
