@@ -3,6 +3,9 @@
 <details>
 <summary><span style="display: inline-block; width: 100%; text-align: center;">🤓 About Me</span></summary>
 
+
+
+
 Hello! I'm a developer specializing in **Artificial Intelligence**, **Optimization**, and applying **AI in architecture**.
 
 ### 🎓 Education
