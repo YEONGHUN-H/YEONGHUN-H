@@ -22,6 +22,46 @@ I'm a Computer Science major at **Gachon University** (Class of 2022).
   <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white" alt="HTML"/>
 </p>
 
+### 🚀 Projects 
+
+<!-- P-실무프로젝트 -->
+<p align="center">
+  <a href="https://github.com/YEONGHUN-H/P_Project.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=P_Project&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+  </a>
+</p>
+<p align="center">🍽️ 사용자 맞춤 <strong>식단 & 운동 추천 AI</strong> 딥러닝 예측 서비스 <br/> 🥈 가천대학교 <strong>P-실무프로젝트 우수상 수상</strong></p>
+
+---
+
+<!-- 랩실 프로젝트1 -->
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject1&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+  </a>
+</p>
+<p align="center">🌊 <strong>랩실 프로젝트1</strong> — 뜰개(뜰에 물 채움) 예측 모델 연구</p>
+
+---
+
+<!-- 랩실 프로젝트2 -->
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject2&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+  </a>
+</p>
+<p align="center">📦 <strong>랩실 프로젝트2</strong> — 배달 매칭 최적화 모델</p>
+
+---
+
+<!-- 건축 랩실 프로젝트 -->
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=ArchitectureLab-EnergyPrediction&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+  </a>
+</p>
+<p align="center">🏠 <strong>건축 랩실 프로젝트</strong> — 홈 어시스턴트 기반 에너지 예측 <br/> 📄 SCI 논문 제2저자 참여 </p>
+
 ### 🔗 SNS
 <p>
   <a href="https://www.instagram.com/huunzero?igsh=emQ3ZWV6YjUxdXYx&utm_source=qr" target="_blank" rel="noopener">
