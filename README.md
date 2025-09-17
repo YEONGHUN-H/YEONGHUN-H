@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FFC371,100:FF9A8B&height=120&section=header&text=Yeonghun%20Git&fontSize=60&textColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff00,100:ffffff20&height=100&section=header&text=Yeonghun%20Git&fontSize=50&textColor=000000&fontWeight=700&animation=twinkle" />
+
 
 <br><br><br><br>
 
