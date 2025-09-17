@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=Youngdongbot&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FFC371,100:FF9A8B&height=120&section=header&text=Yeonghun%20Git&fontSize=60&textColor=ffffff&animation=fadeIn" />
+
 <br><br><br><br>
 
 <details>
