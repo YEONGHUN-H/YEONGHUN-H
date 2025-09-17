@@ -1,15 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ACDFD8,10:B6D7A8,30:D3FFCE,75:CBD0E3,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <details>
-<summary><span style="display: inline-block; width: 100%; text-align: center;">🤓 About Me</span></summary>
-
-
-
-
+<summary><span style="display: inline-block; width: 100%; text-align: center;">🤓 About Me  </span></summary>
+<br> <br> <br> 
 Hello! I'm a developer specializing in **Artificial Intelligence**, **Optimization**, and applying **AI in architecture**.
 
 ### 🎓 Education
-I'm a Computer Science major at **Gachon University** (Class of 2022).
+🧘🏻 홍영훈 (2001.12.17)
+
+🧘🏻 가천대학교 컴퓨터공학과 학사 재중 (2020.03 ~ )
+
+🧘🏻 가천대학교 컴퓨터공학과 알고리즘 Lab 학부연구생 (2023.12 ~)
+
+
 
 ### 🔎 Focus Areas
 - Artificial Intelligence Development  
@@ -65,6 +68,7 @@ I'm a Computer Science major at **Gachon University** (Class of 2022).
   </a>
 </p>
 <p align="center">🏠 <strong>건축 랩실 프로젝트</strong> — 홈 어시스턴트 기반 건축물 에너지 예측 <br/> 📄 SCI 논문 제2저자 참여 </p>
+
 
 ### 🔗 SNS
 <p>
