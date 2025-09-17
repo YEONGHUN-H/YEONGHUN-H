@@ -35,11 +35,12 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white" alt="HTML"/>
 </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjcyemZhN2NrMHRidXo3ejR1MmlpMTlmYWZrcGVqaHdqcWZvMWFwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6DZ8k92zhbw5XGg5EL/giphy.gif" width="200"/>
-</div>
 
 ### 🚀 Projects 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjcyemZhN2NrMHRidXo3ejR1MmlpMTlmYWZrcGVqaHdqcWZvMWFwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6DZ8k92zhbw5XGg5EL/giphy.gif" width="500"/>
+</div>
 
 <!-- P-실무프로젝트 -->
 <p align="center">💡 Python과 AI를 활용한 개인 맞춤형 추천 및 목표일 달성 예측 시스템</p>
