@@ -10,14 +10,14 @@
 <summary><span style="display: inline-block; width: 100%; text-align: center;">🤓 About Me  </span></summary>
 <br> <br> <br> 
 안녕하세요! 저는 인공지능(AI) 랩실에서 연구를 수행하며, 빅데이터 처리와 예측 분석을 기반으로 최적화, 머신러닝, 딥러닝 기술을 활용하여 실생활과 건축 분야에 AI를 적용하는 프로젝트를 진행하는 학부생 개발자입니다.
-
+<br> <br> 
 ### 🎓 Education
 🧘🏻 홍영훈 (2001.12.17)
 
 🧘🏻 가천대학교 컴퓨터공학과 학사 재중 (2020.03 ~ )
 
 🧘🏻 가천대학교 컴퓨터공학과 알고리즘 Lab 학부연구생 (2023.12 ~)
-
+<br> <br> 
 
 
 ### 🔎 Focus Areas
@@ -25,7 +25,7 @@
 - Optimization Techniques
 - Applying AI in Architectural Design and Processes
 - Data Scientist
-
+<br> <br> 
 ### 🛠️ Skills
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" alt="JavaScript"/>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white" alt="HTML"/>
 </p>
 
-
+<br> <br> 
 ### 🚀 Projects 
 
 <div id="header" align="center">
