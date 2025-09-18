@@ -118,6 +118,19 @@
 ---
 <br> <br> 
 
+---
+
+<!-- 동대문구 공모전 -->
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject2&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+  </a>
+</p>
+<p align="center">📔2025 동대문구 공공데이터 활용 공모전 — 동대문구 폐원단 활용 의류 사업과 대학가 간 연계</p>
+
+---
+<br> <br> 
+
 ### 🔗 SNS
 <p>
   <a href="https://www.instagram.com/huunzero?igsh=emQ3ZWV6YjUxdXYx&utm_source=qr" target="_blank" rel="noopener">
