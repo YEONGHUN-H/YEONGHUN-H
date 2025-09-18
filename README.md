@@ -62,8 +62,20 @@
 ---
 
 </div></div>
-<!-- P-실무프로젝트 --> <p align="center">💡 Python과 AI를 활용한 개인 맞춤형 추천 및 목표일 달성 예측 시스템</p> <p align="center"> <a href="https://github.com/flirteam/Data_ML_Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=flirteam&repo=Data_ML_Project&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" /> </a> </p> <p align="center">🍽️ 사용자 맞춤 <strong>식단 & 운동 추천 AI</strong> 딥러닝 예측 서비스 <br/> 🥈 가천대학교 <strong>P-실무프로젝트 우수상 수상</strong></p>
+<!-- P-실무프로젝트 -->
+<p align="center">💡 Python과 AI를 활용한 개인 맞춤형 추천 및 목표일 달성 예측 시스템</p>
 
+<p align="center">
+  <a href="https://github.com/flirteam/AI.Data_DL_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=flirteam&repo=AI.Data_DL_Project&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF&random=20250918" />
+  </a>
+</p>
+
+<p align="center">
+  🍽️ 사용자 맞춤 <strong>식단 & 운동 추천 AI</strong> 딥러닝 예측 서비스 <br/>
+  🥈 가천대학교 <strong>P-실무프로젝트 우수상 수상</strong><br/>
+  📌 개인 목표일 달성 예측 & 맞춤형 추천 기능 제공
+</p>
 
 
 ---
