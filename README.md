@@ -87,7 +87,7 @@
 <br> <br> 
 <!-- 랩실 프로젝트2 -->
 <p align="center">
-  <a href="https://github.com/YEONGHUN-H/start.git/genetic_algorithm_delivery">
+  <a href="https://github.com/YEONGHUN-H/start.git">
     <img src="https://img.shields.io/badge/GA-Project_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
