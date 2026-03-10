@@ -87,8 +87,8 @@
 <br> <br> 
 <!-- 랩실 프로젝트2 -->
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject2&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+  <a href="https://github.com/YEONGHUN-H/start.git/genetic_algorithm_delivery">
+    <img src="https://img.shields.io/badge/GA-Project_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 <p align="center">📦 랩실 프로젝트2 — 배달 매칭 최적화 모델</p>
