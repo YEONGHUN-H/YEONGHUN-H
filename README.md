@@ -111,8 +111,8 @@
 <!-- 주가 예측 모델 개발 프로젝트-->
 <p align="center">
   <a href="https://github.com/YEONGHUN-H/Stock_project.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject2&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
-  </a>  
+    <img src="https://img.shields.io/badge/GitHub-Project_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 <p align="center">💰 주가 예측 모델 개발 — AI 모델 학습을 활용한 주가 예측</p>
 
