@@ -78,7 +78,7 @@
 <!-- 랩실 프로젝트1 -->
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=LabProject1&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+    <img src="#18BCF2" />
   </a>
 </p>
 <p align="center">🌊 랩실 프로젝트1 — 뜰개 예측 모델 연구</p>
