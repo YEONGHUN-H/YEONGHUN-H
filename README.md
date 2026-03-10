@@ -98,9 +98,10 @@
 <!-- 건축 랩실 프로젝트 -->
 <p align="center">
   <a href="https://example.com/my-paper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YEONGHUN-H&repo=ArchitectureLab-EnergyPrediction&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=58A6FF&text_color=fff&icon_color=58A6FF" />
+    <img src="#18BCF2" />
   </a>
 </p>
+
 <p align="center">
   🏠 건축 랩실 프로젝트 — 홈 어시스턴트 기반 에너지 예측 
   (<a href="https://www.mdpi.com/2076-3417/14/21/9889">📝SCI 논문 2저자 참여</a>)
