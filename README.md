@@ -98,7 +98,7 @@
 <!-- 건축 랩실 프로젝트 -->
 <p align="center">
   <a href="https://github.com/YEONGHUN-H/architectual_engineering.git">
-    <img src="https://img.shields.io/badge/GitHub-Project_Link-18BCF2?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
   </a>
 </p>
 
