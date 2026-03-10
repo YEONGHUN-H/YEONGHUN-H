@@ -97,7 +97,7 @@
 <br> <br> 
 <!-- 건축 랩실 프로젝트 -->
 <p align="center">
-  <a href="https://example.com/my-paper">
+  <a href="https://github.com/YEONGHUN-H/architectual_engineering.git">
     <img src="#18BCF2" />
   </a>
 </p>
